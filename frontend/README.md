@@ -15,8 +15,8 @@ Create a file named `.env.local` in the root directory of the project and add th
 
 ```plaintext
 # Google OAuth Credentials
-GOOGLE_ID=173164704887-o09orq83rvd46hhh2db3hma1qb0ehdsv.apps.googleusercontent.com
-GOOGLE_SECRET=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
+GOOGLE_ID=****
+GOOGLE_SECRET=****
 
 # NextAuth Configuration
 NEXTAUTH_URL=http://localhost:3000
